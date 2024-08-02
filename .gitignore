@@ -1,0 +1,10 @@
+*bulletin_board/.idea
+*bulletin_board/project/accounts/__pycache__
+*bulletin_board/project/board/__pycache__
+*bulletin_board/project/accounts/migrations/__pycache__
+*bulletin_board/project/board/migrations/__pycache__
+*bulletin_board/project/board/templatetags/__pycache__
+*bulletin_board/project/media
+*bulletin_board/project/project/__pycache__
+*bulletin_board/project/project/.env
+*bulletin_board/venv
